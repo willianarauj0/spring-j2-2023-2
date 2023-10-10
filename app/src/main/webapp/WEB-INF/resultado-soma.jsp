@@ -3,10 +3,10 @@
 <html lang="pt-br">
     <head>
         <meta charset="UTF-8" />
-        <title>Home</title>
+        <title>Soma</title>
     </head>
     <body>
-        <h1>Olá ${nome}!!!</h1>
+        ${resultado}
     </body>
 </html>
 
